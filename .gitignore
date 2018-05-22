@@ -1,0 +1,7 @@
+*.iml
+.idea/
+cmdframework-api/target/
+cmdframework-example-proxy/target/
+cmdframework-example-spigot/target/
+cmdframework-spigot/target/
+cmframework-proxy/target/

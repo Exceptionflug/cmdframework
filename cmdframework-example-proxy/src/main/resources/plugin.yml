@@ -1,0 +1,5 @@
+name: Example
+author: Exceptionflug
+version: 1.0
+
+main: de.exceptionflug.cmdframework.example.proxy.ProxyExamplePlugin
